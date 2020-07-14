@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a fullstack web developer!
+Check out my portfolio. https://www.luisocasio.dev/
+
 <!--
 **LuisOcasio/LuisOcasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
