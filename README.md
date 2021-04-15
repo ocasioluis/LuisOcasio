@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a fullstack web developer!
-Check out my portfolio. https://www.luisocasio.dev/
+Check out my portfolio. https://www.luisocasio.com/
 
 **Find me online:**  
 
